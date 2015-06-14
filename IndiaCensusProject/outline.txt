@@ -1,0 +1,10 @@
+#Sex ratios in India
+
+Question - what factors affect sex ratios in India?
+Hypothesis 1 
+	- States with higher GDP have more even sex ratios
+	- But do CHANGES in GDP travel with changes in sex ratio? (i.e. can we find more evidence of direct correlation?)
+
+Test hypothesis by building a linear model and looking for the 'difference of differences' between GDP and sex ratio across states in 2001 and 2011
+
+Possibilities: 1) change in GDP entirely explains change in sex ratio - test this first. If the answer is yes, then done!

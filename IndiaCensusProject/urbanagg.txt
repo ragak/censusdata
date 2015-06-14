@@ -1,0 +1,55 @@
+city	state	2011	2001
+Mumbai	Maharashtra	18394912	16434386
+Delhi	Delhi	16349831	13850507
+Kolkata	West Bengal	14112536	13205697
+Chennai	Tamil Nadu	8696010	6560242
+Bangalore	Karnataka	8520435	5701446
+Hyderabad	Telangana	7749334	5742036
+Ahmedabad	Gujarat	6352254	4525013
+Pune	Maharashtra	5049968	3760636
+Surat	Gujarat	4585367	2811614
+Jaipur	Rajasthan	3046163	2322575
+Kanpur	Uttar Pradesh	2920496	2715555
+Lucknow	Uttar Pradesh	2902920	2245509
+Nagpur	Maharashtra	2497870	2129500
+Ghaziabad	Uttar Pradesh	2375820	968256
+Indore	Madhya Pradesh	2170295	1506062
+Coimbatore	Tamil Nadu	2136916	1461139
+Thiruvanathapuram	Kerala	2119724	1355972
+Patna	Bihar	2049156	1697976
+Kochi	Kerala	2028399	1355972
+Bhopal	Madhya Pradesh	1886100	1458416
+Kozhikode	Kerala	1861269	880247
+Vadodara	Gujarat	1822221	1491045
+Agra	Uttar Pradesh	1760285	1331339
+Visakhapatnam	Andhra Pradesh	1728128	1345938
+Thrissur	Kerala	1699060	330122
+Malappuram	Kerala	1679754	889635
+Kannur	Kerala	1640986	498207
+Ludhiana	Punjab	1618879	1398467
+Nashik	Maharashtra	1561809	1152326
+Vijayawada	Andhra Pradesh	1476931	1039518
+Madurai	Tamil Nadu	1465625	1203095
+Varanasi	Uttar Pradesh	1432280	1203961
+Meerut	Uttar Pradesh	1420902	1161716
+Faridabad	Haryana	1414050	1055938
+Rajkot	Gujarat	1390640	1003015
+Jamshedpur	Jharkhand	1339438	1104713
+Srinagar	Jammu and Kashmir	1273312	988210
+Jabalpur	Madhya Pradesh	1268848	1098000
+Asansol	West Bengal	1243414	1067369
+Vasai-Virar	Maharashtra	1221233	693350
+Allahabad	Uttar Pradesh	1216719	1042229
+Dhanbad	Jharkhand	1195298	1065327
+Aurangabad	Maharashtra	1189376	892483
+Amritsar	Punjab	1183705	1003917
+Jodhpur	Rajasthan	1137815	860818
+Ranchi	Jharkhand	1126741	863495
+Kollam	Kerala	1110005	380091
+Gwalior	Madhya Pradesh	1101981	1053505
+Durg-Bhilainagar	Chhattisgarh	1064077	927864
+Guntur[16][17][18]	Andhra Pradesh	1028667	789129
+Chandigarh	Chandigarh	1025682	808515
+Tiruchirappalli	Tamil Nadu	1021717	866354
+Raipur	Chhattisgarh	1010087	700113
+Kota	Rajasthan	1001365	703150
