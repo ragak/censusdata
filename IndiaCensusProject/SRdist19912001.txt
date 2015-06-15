@@ -1,0 +1,630 @@
+District	State	Population 2001	81to91grow	91to01grow	SR91	SR01
+INDIA		1027015247	23.86	21.34	927	933
+Jammu and Kashmir	Jammu and Kashmir	10069917	30.34	29.04	896	900
+Kupwara	Jammu and Kashmir	640013	40.47	38.59	893	929
+Baramula	Jammu and Kashmir	1166722	32.72	31.18	890	909
+Srinagar	Jammu and Kashmir	1238530	33.02	31.45	872	871
+Badgam	Jammu and Kashmir	593768	27.81	26.5	899	918
+Pulwama	Jammu and Kashmir	632295	25.69	24.49	917	938
+Anantanag	Jammu and Kashmir	1170013	34.33	32.7	905	922
+Leh (Ladakh)	Jammu and Kashmir	117637	31.91	30.42	845	805
+Kargil	Jammu and Kashmir	115227	32.89	31.39	878	901
+Doda	Jammu and Kashmir	690474	28.09	26.76	905	905
+Udhampur	Jammu and Kashmir	738965	28.32	26.95	888	871
+Punch	Jammu and Kashmir	371561	29.4	28.08	902	916
+Rajauri	Jammu and Kashmir	478595	26.38	25.19	898	891
+Jammu	Jammu and Kashmir	1571911	29.78	28.39	899	881
+Kathua	Jammu and Kashmir	544206	21.94	20.91	912	907
+Himachal Pradesh	Himachal Pradesh	6077248	20.79	17.53	976	970
+Chamba	Himachal Pradesh	460499	26.4	17.09	949	961
+Kangra	Himachal Pradesh	1338536	18.5	14.01	1024	1027
+Lahul & Spiti	Himachal Pradesh	33224	-2.51	6.17	817	804
+Kullu	Himachal Pradesh	379865	26.68	25.6	920	928
+Mandi	Himachal Pradesh	900987	20.4	16.05	1013	1014
+Hamirpur	Himachal Pradesh	412009	16.17	11.62	1105	1102
+Una	Himachal Pradesh	447967	19.17	18.43	1017	997
+Bilaspur	Himachal Pradesh	340735	19.41	15.35	1002	992
+Solan	Himachal Pradesh	499380	26.02	30.64	909	853
+Sirmaur	Himachal Pradesh	458351	23.72	20.72	897	901
+Shimla	Himachal Pradesh	721745	20.84	16.9	894	898
+Kinnaur	Himachal Pradesh	83950	19.69	17.79	856	851
+Punjab	Punjab	24289296	20.81	19.76	882	874
+Gurdaspur	Punjab	2096889	16.07	19.33	903	888
+Amritsar	Punjab	3074207	14.46	22.72	873	874
+Kapurthala	Punjab	752287	18.6	16.34	896	886
+Jalandhar	Punjab	1953508	17.3	18.4	897	882
+Hoshiarpur	Punjab	1478045	16.39	13.81	924	935
+Nawanshahr	Punjab	586637	16.39	10.43	900	913
+Rupnagar	Punjab	1110000	28.29	23.39	870	870
+Fatehgarh Sahib	Punjab	539751	17.01	18.65	871	851
+Ludhiana	Punjab	3030352	36.53	24.79	844	824
+Moga	Punjab	886313	18.61	13.93	884	883
+Firozpur	Punjab	1744753	24	20.42	895	883
+Muktsar	Punjab	776702	19.55	18.68	880	886
+Faridkot	Punjab	552466	22.79	21.42	883	881
+Bathinda	Punjab	1181236	20.49	19.89	884	865
+Mansa	Punjab	688630	18.04	19.83	873	875
+Sangrur	Punjab	1998464	21.36	18.57	870	868
+Patiala	Punjab	1839056	21.53	20.31	882	864
+Chandigarh *	Chandigarh	900914	42.16	40.33	790	773
+Chandigarh	Chandigarh	900914	42.16	40.33	790	773
+Uttaranchal	Uttaranchal	8479562	24.23	19.2	936	964
+Uttarkashi	Uttaranchal	294179	25.54	22.72	918	941
+Chamoli	Uttaranchal	369198	21.97	13.51	982	1017
+Rudraprayag	Uttaranchal	227461	17.51	13.44	1094	1117
+Tehri Garhwal	Uttaranchal	604608	16.59	16.15	1048	1051
+Dehradun	Uttaranchal	1279083	34.66	24.71	843	893
+Garhwal	Uttaranchal	696851	9.05	3.87	1058	1104
+Pithoragarh	Uttaranchal	462149	14.11	10.92	992	1031
+Champawat	Uttaranchal	224461	34.22	17.56	945	1024
+Almora	Uttaranchal	630446	9.43	3.14	1099	1147
+Bageshwar	Uttaranchal	249453	14.92	9.21	1055	1110
+Nainital	Uttaranchal	762912	30.01	32.88	881	906
+Udhamsingh Nagar	Uttaranchal	1234548	44.46	27.79	863	902
+Hardwar	Uttaranchal	1444213	28.44	26.3	846	868
+Haryana	Haryana	21082989	27.41	28.06	865	861
+Panchkula	Haryana	469210	57.61	51.16	839	823
+Ambala	Haryana	1013660	22.31	25.69	903	869
+Yamunanagar	Haryana	982369	27.41	21.84	883	863
+Kurukshetra	Haryana	828120	23.4	23.72	879	866
+Kaithal	Haryana	945631	20.92	20.95	853	854
+Karnal	Haryana	1274843	24.76	23.13	864	864
+Panipat	Haryana	967338	37.65	38.57	852	830
+Sonipat	Haryana	1278830	24.53	22.36	840	839
+Jind	Haryana	1189725	23.03	21.35	838	853
+Fatehabad	Haryana	806158	26.08	24.76	877	886
+Sirsa	Haryana	1111012	27.79	22.96	885	882
+Hisar	Haryana	1536417	22.67	27.06	853	852
+Bhiwani	Haryana	1424554	22.8	22.45	878	880
+Rohtak	Haryana	940036	17.79	20.99	849	847
+Jhajjar	Haryana	887392	21.37	24.09	861	848
+Mahendragarh	Haryana	812022	27.91	19.09	910	919
+Rewari	Haryana	764727	25.62	25.24	927	901
+Gurgaon	Haryana	1657669	32.67	44.64	871	874
+Faridabad	Haryana	2193276	49.81	48.47	828	839
+Delhi *	Delhi	13782976	51.45	46.31	827	821
+North West	Delhi	2847395	NA	60.12	822	820
+North	Delhi	779788	NA	13.3	819	826
+North East	Delhi	1763712	NA	62.52	837	851
+East	Delhi	1448770	NA	41.61	846	845
+New Delhi	Delhi	171806	NA	2.47	793	791
+Central	Delhi	644005	NA	-1.91	872	843
+West	Delhi	2119641	NA	47.81	848	830
+South West	Delhi	1749492	NA	61.29	795	783
+South	Delhi	2258367	NA	50.27	807	797
+Rajasthan	Rajasthan	56473122	28.44	28.33	910	922
+Ganganagar	Rajasthan	1788487	18.25	27.53	865	873
+Hanumangarh	Rajasthan	1517390	44.6	24.34	891	895
+Bikaner	Rajasthan	1673562	42.7	38.18	885	889
+Churu	Rajasthan	1922908	30.84	24.6	937	948
+Jhunjhunun	Rajasthan	1913099	30.61	20.9	931	946
+Alwar	Rajasthan	2990862	30.82	30.23	880	887
+Bharatpur	Rajasthan	2098323	27.14	27.05	832	857
+Dhaulpur	Rajasthan	982815	28.1	31.13	795	828
+Karauli	Rajasthan	1205631	28.66	29.96	840	858
+Sawai Madhopur	Rajasthan	1116031	27.22	27.44	870	889
+Dausa	Rajasthan	1316790	30.81	32.42	884	899
+Jaipur	Rajasthan	5252388	38.73	35.1	892	897
+Sikar	Rajasthan	2287229	33.81	24.11	946	951
+Nagaur	Rajasthan	2773894	31.69	29.33	942	951
+Jodhpur	Rajasthan	2880777	29.12	33.77	891	908
+Jaisalmer	Rajasthan	507999	41.73	47.45	807	821
+Barmer	Rajasthan	1963758	28.27	36.83	891	896
+Jalor	Rajasthan	1448486	26.52	26.78	942	968
+Sirohi	Rajasthan	850756	20.66	30.08	949	944
+Pali	Rajasthan	1819201	16.63	22.39	956	983
+Ajmer	Rajasthan	2180526	20.05	26.1	918	932
+Tonk	Rajasthan	1211343	24.42	24.24	923	936
+Bundi	Rajasthan	961269	25.85	24.8	889	908
+Bhilwara	Rajasthan	2009516	21.58	26.14	945	964
+Rajsamand	Rajasthan	986269	17.97	19.88	991	1002
+Udaipur	Rajasthan	2632210	24.52	27.37	956	972
+Dungarpur	Rajasthan	1107037	28.07	26.58	995	1027
+Banswara	Rajasthan	1500420	30.34	29.84	969	978
+Chittaurgarh	Rajasthan	1802656	20.42	21.46	950	966
+Kota	Rajasthan	1568580	35.88	28.52	881	895
+Baran	Rajasthan	1022568	27.3	26.19	896	909
+Jhalawar	Rajasthan	1180342	21.91	23.34	918	928
+Uttar Pradesh	Uttar Pradesh	166052859	25.55	25.8	876	898
+Saharanpur	Uttar Pradesh	2848152	26.76	23.35	851	868
+Muzaffarnagar	Uttar Pradesh	3541952	26.42	24.61	860	872
+Bijnor	Uttar Pradesh	3130586	27.76	27.16	871	896
+Moradabad	Uttar Pradesh	3749630	31.89	26.45	849	885
+Rampur	Uttar Pradesh	1922450	27.45	27.98	858	882
+Jyotiba Phule Nagar	Uttar Pradesh	1499193	28.25	29.72	860	885
+Meerut	Uttar Pradesh	3001636	24.91	24.16	858	871
+Baghpat	Uttar Pradesh	1164388	22.39	13	838	848
+Ghaziabad	Uttar Pradesh	3289540	40.9	47.47	840	860
+Gautam Buddha Nagar	Uttar Pradesh	1191263	37.64	35.7	817	842
+Bulandshahar	Uttar Pradesh	2923290	16.1	22.22	858	881
+Aligarh	Uttar Pradesh	2990388	29.95	22.08	845	861
+Hathras	Uttar Pradesh	1333372	26.9	18.32	830	856
+Mathura	Uttar Pradesh	2069578	22.69	26.95	816	841
+Agra	Uttar Pradesh	3611301	21.9	31.27	832	852
+Firozabad	Uttar Pradesh	2045737	21.65	33.44	832	851
+Etah	Uttar Pradesh	2788270	20.78	24.2	824	847
+Mainpuri	Uttar Pradesh	1592875	24.11	21.5	834	855
+Budaun	Uttar Pradesh	3069245	24.16	25.36	810	841
+Bareilly	Uttar Pradesh	3598701	24.71	26.96	839	872
+Pilibhit	Uttar Pradesh	1643788	27.25	28.11	853	876
+Shahjahanpur	Uttar Pradesh	2549458	20.62	28.28	816	838
+Kheri	Uttar Pradesh	3200137	23.89	32.28	842	875
+Sitapur	Uttar Pradesh	3616510	22.24	26.58	833	862
+Hardoi	Uttar Pradesh	3397414	20.75	23.67	818	843
+Unnao	Uttar Pradesh	2700426	20.73	22.72	873	898
+Lucknow	Uttar Pradesh	3681416	37.14	33.25	866	891
+Rae Bareli	Uttar Pradesh	2872204	23.57	23.66	931	949
+Farrukhabad	Uttar Pradesh	1577237	24.46	22.8	832	860
+Kannauj	Uttar Pradesh	1385227	24.94	19.58	835	868
+Etawah	Uttar Pradesh	1340031	17.24	21.59	834	856
+Auraiya	Uttar Pradesh	1179496	27.23	14.7	828	856
+Kanpur Dehat	Uttar Pradesh	1584037	19.89	21.55	836	856
+Kanpur Nagar	Uttar Pradesh	4137489	22.54	27.17	832	869
+Jalaun	Uttar Pradesh	1455859	23.64	19.39	829	847
+Jhansi	Uttar Pradesh	1746715	24.66	23.23	864	870
+Lalitpur	Uttar Pradesh	977447	30.18	29.98	863	884
+Hamirpur	Uttar Pradesh	1042374	21.9	17.85	839	852
+Mahoba	Uttar Pradesh	708831	24.2	21.8	845	866
+Banda	Uttar Pradesh	1500253	23.69	18.49	832	860
+Chitrakoot	Uttar Pradesh	800592	16.78	34.33	862	872
+Fatehpur	Uttar Pradesh	2305847	20.79	21.4	882	892
+Pratapgarh	Uttar Pradesh	2727156	22.75	23.36	987	983
+Kaushambi	Uttar Pradesh	1294937	25.34	26.73	883	894
+Allahabad	Uttar Pradesh	4941510	30.78	26.72	873	882
+Barabanki	Uttar Pradesh	2673394	26.59	26.4	854	886
+Faizabad	Uttar Pradesh	2087914	23.77	23.87	898	940
+Ambedkar Nagar	Uttar Pradesh	2025373	25.45	24.31	943	977
+Sultanpur	Uttar Pradesh	3190926	25.32	24.2	933	980
+Bahraich	Uttar Pradesh	2384239	25.19	29.55	845	865
+Shravasti	Uttar Pradesh	1175428	23.75	27.3	833	859
+Balrampur	Uttar Pradesh	1684567	25.52	23.08	868	896
+Gonda	Uttar Pradesh	2765754	26.62	25.46	877	899
+Siddharthnagar	Uttar Pradesh	2038598	23.63	26.78	912	946
+Basti	Uttar Pradesh	2068922	23.41	22.69	908	916
+Sant Kabir Nagar	Uttar Pradesh	1424500	26.46	23.64	928	978
+Maharajganj	Uttar Pradesh	2167041	25.56	29.27	909	933
+Gorakhpur	Uttar Pradesh	3784720	24.6	23.44	924	959
+Kushinagar	Uttar Pradesh	2891933	29.01	28.17	940	961
+Deoria	Uttar Pradesh	2730376	24.95	25.03	995	1003
+Azamgarh	Uttar Pradesh	3950808	25.46	26.28	1007	1026
+Mau	Uttar Pradesh	1849294	28.37	27.91	974	984
+Ballia	Uttar Pradesh	2752412	22.27	21.67	946	952
+Jaunpur	Uttar Pradesh	3911305	26.92	21.67	994	1021
+Ghazipur	Uttar Pradesh	3049337	24.27	26.18	957	974
+Chandauli	Uttar Pradesh	1639777	27.33	28.63	907	922
+Varanasi	Uttar Pradesh	3147927	30.65	25.51	890	908
+Sant Ravidas Nagar	Uttar Pradesh	1352056	38.16	25.47	896	918
+Mirzapur	Uttar Pradesh	2114852	31.4	27.62	883	897
+Sonbhadra	Uttar Pradesh	1463468	38.18	36.13	862	896
+Bihar	Bihar	82878796	23.38	28.43	907	921
+Pashchim Champaran	Bihar	3043044	18.3	30.4	877	901
+Purba Champaran	Bihar	3933636	25.46	29.27	883	898
+Sheohar	Bihar	514288	27.34	36.16	876	896
+Sitamarhi	Bihar	2669887	23.13	32.58	884	893
+Madhubani	Bihar	3570651	21.76	26.08	932	943
+Supaul	Bihar	1745069	23.45	29.95	904	920
+Araria	Bihar	2124831	26.69	31.84	907	916
+Kishanganj	Bihar	1294063	22.2	31.5	933	940
+Purnia	Bihar	2540788	23.76	35.23	903	916
+Katihar	Bihar	2389533	27.77	30.91	909	919
+Madhepura	Bihar	1524596	22.16	29.45	885	915
+Saharsa	Bihar	1506418	25.54	33.03	884	910
+Darbhanga	Bihar	3285473	25.04	30.85	911	914
+Muzaffarpur	Bihar	3743836	25.3	26.74	904	928
+Gopalganj	Bihar	2149343	25.12	26.11	968	1005
+Siwan	Bihar	2708840	22.04	24.78	1017	1033
+Saran	Bihar	3251474	23.44	26.37	963	965
+Vaishali	Bihar	2712389	29.08	26.39	921	921
+Samastipur	Bihar	3413413	28.35	25.63	926	927
+Begusarai	Bihar	2342989	24.61	29.11	898	911
+Khagaria	Bihar	1276677	28.44	29.32	868	890
+Bhagalpur	Bihar	2430331	20.67	27.24	864	878
+Banka	Bihar	1608778	24.44	24.47	893	908
+Munger	Bihar	1135499	17.79	20.34	856	878
+Lakhisarai	Bihar	801173	21.08	23.94	880	923
+Sheikhpura	Bihar	525137	19.84	24.96	896	920
+Nalanda	Bihar	2368327	21.73	18.64	898	915
+Patna	Bihar	4709851	19.84	30.17	867	873
+Bhojpur	Bihar	2233415	20.26	24.58	904	900
+Buxar	Bihar	1403462	18.63	29.03	884	901
+Kaimur (Bhabua)	Bihar	1284575	24.2	30.64	884	907
+Rohtas	Bihar	2448762	21.77	27.71	894	909
+Jehanabad	Bihar	1511406	19.43	28.64	919	928
+Aurangabad	Bihar	2004960	24.49	30.19	915	936
+Gaya	Bihar	3464983	23.92	30.03	922	937
+Nawada	Bihar	1809425	23.7	33.08	936	948
+Jamui	Bihar	1397474	21.9	32.9	903	917
+Sikkim	Sikkim	540493	28.47	32.98	878	875
+North	Sikkim	41023	18.09	31.32	828	752
+West	Sikkim	123174	30.55	25.48	915	930
+South	Sikkim	131506	29.78	33.37	892	927
+East	Sikkim	244790	28.6	37.17	859	844
+Arunachal Pradesh	Arunachal Pradesh	1091117	36.83	26.21	859	901
+Tawang	Arunachal Pradesh	34705	30.14	22.69	844	963
+West Kameng	Arunachal Pradesh	74595	35.74	32.21	822	749
+East Kameng	Arunachal Pradesh	57065	17.92	13.24	962	985
+Papum Pare	Arunachal Pradesh	121750	83.24	67.21	831	899
+Lower Subansiri	Arunachal Pradesh	97614	14.06	17.37	957	985
+Upper Subansiri	Arunachal Pradesh	54995	27.09	9.8	867	973
+West Siang	Arunachal Pradesh	103575	31.64	15.17	873	913
+East Siang	Arunachal Pradesh	87430	30.26	21.66	877	937
+Upper Siang	Arunachal Pradesh	33146	31.5	19.32	822	858
+Dibang Valley	Arunachal Pradesh	57543	39.03	33.61	788	840
+Lohit	Arunachal Pradesh	143478	57.85	30.78	797	857
+Changlang	Arunachal Pradesh	124994	53.56	30.84	863	905
+Tirap	Arunachal Pradesh	100227	28.7	17.21	862	911
+Nagaland	Nagaland	1988636	56.08	64.41	886	909
+Mon	Nagaland	259604	58.98	73.42	872	881
+Tuensang	Nagaland	414801	69.87	78.1	889	913
+Mokokchung	Nagaland	227230	52.39	43.48	912	919
+Zunheboto	Nagaland	154909	32.68	61	964	945
+Wokha	Nagaland	161098	42.8	95.01	917	927
+Dimapur	Nagaland	308382	55.16	73.3	830	854
+Kohima	Nagaland	314366	68.98	49.96	879	944
+Phek	Nagaland	148246	44.66	45.12	880	923
+Manipur	Manipur	2388634	29.29	30.02	958	978
+Senapati	Manipur	379214	36.13	81.96	942	928
+Tamenglong	Manipur	111493	38.51	29.23	935	922
+Churachandpur	Manipur	228707	31	29.81	931	993
+Bishnupur	Manipur	205907	27.52	13.9	984	1004
+Thoubal	Manipur	366341	26.34	24.62	980	998
+Imphal West	Manipur	439532	26.14	15.42	979	1007
+Imphal East	Manipur	393780	29.41	19.16	966	992
+Ukhrul	Manipur	140946	31.74	28.98	884	920
+Chandel	Manipur	122714	25.81	72.8	913	986
+Mizoram	Mizoram	891058	39.7	29.18	921	938
+Mamit	Mizoram	62313	23.57	-3.5	891	902
+Kolasib	Mizoram	60977	26.82	36.01	924	913
+Aizawl	Mizoram	339812	57.23	39.24	917	954
+Champhai	Mizoram	101389	32.31	29.77	969	955
+Serchhip	Mizoram	55539	20.36	18.45	959	953
+Lunglei	Mizoram	137155	28.79	23.1	910	922
+Lawngtlai	Mizoram	73050	52.68	34.78	885	901
+Saiha	Mizoram	60823	47.72	33.16	939	954
+Tripura	Tripura	3191168	34.3	15.74	945	950
+West Tripura	Tripura	1530531	32.53	18.29	944	953
+South Tripura	Tripura	762565	40.3	6.1	951	949
+Dhalai	Tripura	307417	33.69	10.79	931	940
+North Tripura	Tripura	590655	30.86	26.44	943	952
+Meghalaya	Meghalaya	2306069	32.86	29.94	955	975
+West Garo Hills	Meghalaya	515813	31.06	27.98	959	988
+East Garo Hills	Meghalaya	247555	38.29	31.1	958	960
+South Garo Hills	Meghalaya	99105	23.61	28.59	963	941
+West Khasi Hills	Meghalaya	294115	36.26	33.59	951	972
+Ri Bhoi	Meghalaya	192795	27.4	51.44	941	941
+East Khasi Hills	Meghalaya	660994	30.72	22.88	948	984
+Jaintia Hills	Meghalaya	295692	40.97	34.12	973	980
+Assam	Assam	26638407	NA	18.85	923	932
+Kokrajhar	Assam	930404	NA	15.05	940	945
+Dhubri	Assam	1634589	NA	23.42	950	944
+Goalpara	Assam	822306	NA	23.07	947	955
+Bongaigaon	Assam	906315	NA	12.23	940	945
+Barpeta	Assam	1642420	NA	18.53	939	941
+Kamrup	Assam	2515030	NA	25.75	879	894
+Nalbari	Assam	1138184	NA	11.98	936	937
+Darrang	Assam	1503943	NA	15.79	938	943
+Marigaon	Assam	775874	NA	21.29	941	945
+Nagaon	Assam	2315387	NA	22.3	929	939
+Sonitpur	Assam	1677874	NA	17.8	912	942
+Lakhimpur	Assam	889325	NA	18.34	931	952
+Dhemaji	Assam	569468	NA	18.93	927	936
+Tinsukia	Assam	1150146	NA	19.52	891	909
+Dibrugarh	Assam	1172056	NA	12.43	905	923
+Sibsagar	Assam	1052802	NA	15.95	907	926
+Jorhat	Assam	1009197	NA	15.84	913	903
+Golaghat	Assam	945781	NA	14.21	920	929
+Karbi Anglong	Assam	812320	NA	22.57	907	922
+North Cachar Hills	Assam	186189	NA	23.47	857	883
+Cachar	Assam	1442141	NA	18.66	932	945
+Karimganj	Assam	1003678	NA	21.35	946	944
+Hailakandi	Assam	542978	NA	20.92	929	933
+West Bengal	West Bengal	80221171	24.73	17.84	917	934
+Darjiling	West Bengal	1605900	26.91	23.54	914	943
+Jalpaiguri	West Bengal	3403204	26.44	21.52	927	941
+Koch Bihar	West Bengal	2478280	22.55	14.15	935	949
+Uttar Dinajpur	West Bengal	2441824	34	28.72	921	937
+Dakshin Dinajpur	West Bengal	1502647	24.39	22.11	944	950
+Maldah	West Bengal	3290160	29.78	24.77	938	948
+Murshidabad	West Bengal	5863717	28.2	23.7	943	952
+Birbhum	West Bengal	3012546	21.94	17.88	946	949
+Barddhaman	West Bengal	6919698	25.13	14.36	899	921
+Nadia	West Bengal	4603756	29.95	19.51	936	947
+North Twenty Four Pargan	West Bengal	8930295	31.69	22.64	907	927
+Hugli	West Bengal	5040047	22.43	15.72	917	947
+Bankura	West Bengal	3191822	18.12	13.79	951	953
+Puruliya	West Bengal	2535233	20	13.96	947	953
+Medinipur	West Bengal	9638473	23.57	15.68	944	955
+Haora	West Bengal	4274010	25.71	14.6	881	906
+Kolkata	West Bengal	4580544	6.61	4.11	799	828
+South  Twenty Four Parga	West Bengal	6909015	30.24	20.89	929	938
+Jharkhand	Jharkhand	26909428	24.03	23.19	922	941
+Garhwa	Jharkhand	1034151	32.07	29.05	926	935
+Palamu	Jharkhand	2092004	25.87	26.8	932	937
+Chatra	Jharkhand	790680	32.43	29.05	952	964
+Hazaribagh	Jharkhand	2277108	28.63	24.02	914	950
+Kodarma	Jharkhand	498683	28.08	26.32	986	1001
+Giridih	Jharkhand	1901564	28.92	27.09	966	983
+Deoghar	Jharkhand	1161370	31.64	24.46	911	914
+Godda	Jharkhand	1047264	20.71	21.61	922	926
+Sahibganj	Jharkhand	927584	19.69	25.89	924	943
+Pakaur	Jharkhand	701616	21.57	24.34	954	958
+Dumka	Jharkhand	1754571	23.05	17.31	955	961
+Dhanbad	Jharkhand	2394434	22.7	22.82	819	874
+Bokaro	Jharkhand	1775961	32.57	22.11	865	895
+Ranchi	Jharkhand	2783577	21.42	25.72	921	938
+Lohardaga	Jharkhand	364405	25.72	26.14	971	976
+Gumla	Jharkhand	1345520	13.44	16.6	987	995
+Pashchimi Singhbhum	Jharkhand	2080265	20.58	16.35	965	976
+Purbi Singhbhum	Jharkhand	1978671	16.98	22.66	906	931
+Orissa	Orissa	36706920	20.06	15.94	971	972
+Bargarh	Orissa	1345601	16.93	11.47	979	976
+Jharsuguda	Orissa	509056	21.41	15.13	938	946
+Sambalpur	Orissa	928889	18.47	14.17	956	970
+Debagarh	Orissa	274095	18.5	17.02	982	980
+Sundargarh	Orissa	1829412	17.62	16.26	936	957
+Kendujhar	Orissa	1561521	19.95	16.79	974	977
+Mayurbhanj	Orissa	2221782	19.14	17.89	979	980
+Baleshwar	Orissa	2023056	24.96	19.24	955	949
+Bhadrak	Orissa	1332249	23.55	20.47	985	973
+Kendrapara	Orissa	1301856	17.15	13.25	1007	1014
+Jagatsinghapur	Orissa	1056556	17.98	13.15	977	962
+Cuttack	Orissa	2340686	19.37	14	922	938
+Jajapur	Orissa	1622868	22.01	17.08	977	973
+Dhenkanal	Orissa	1065983	18.92	12.46	954	962
+Anugul	Orissa	1139341	22.31	18.55	942	941
+Nayagarh	Orissa	863934	14.52	10.39	958	939
+Khordha	Orissa	1874405	32.67	24.79	903	901
+Puri	Orissa	1498604	18.08	14.8	970	968
+Ganjam	Orissa	3136937	19.25	16.01	1006	1000
+Gajapati	Orissa	518448	13.04	14.02	1027	1031
+Kandhamal	Orissa	647912	21.69	18.6	999	1008
+Baudh	Orissa	373038	18.35	17.45	987	985
+Sonapur	Orissa	540659	19.99	13.39	979	966
+Balangir	Orissa	1335760	15.94	8.52	981	983
+Nuapada	Orissa	530524	19.56	13	1002	1006
+Kalahandi	Orissa	1334372	19.48	17.99	999	1000
+Rayagada	Orissa	823019	17.29	15.27	1012	1029
+Nabarangapur	Orissa	1018171	24.22	20.26	989	992
+Koraput	Orissa	1177954	19.93	14.41	991	998
+Malkangiri	Orissa	480232	26	13.71	985	996
+Chhatisgarh	Chhatisgarh	20795956	25.73	18.06	985	990
+Koriya	Chhatisgarh	585455	30.15	16.91	926	947
+Surguja	Chhatisgarh	1970661	26.68	24.58	966	972
+Jashpur	Chhatisgarh	739780	16.75	12.71	1001	998
+Raigarh	Chhatisgarh	1265084	20.99	18.68	1000	995
+Korba	Chhatisgarh	1012121	34.83	22.55	952	964
+Janjgir-Champa	Chhatisgarh	1316140	31.35	18.55	1007	999
+Bilaspur	Chhatisgarh	1993042	24	17.59	973	975
+Kawardha	Chhatisgarh	584667	26.24	13.86	996	1002
+Rajnandgaon	Chhatisgarh	1281811	22.43	17.7	1016	1024
+Durg	Chhatisgarh	2801757	26.8	16.88	967	982
+Raipur	Chhatisgarh	3009042	30.14	18.97	983	980
+Mahasamund	Chhatisgarh	860176	19.38	8.72	1015	1019
+Dhamtari	Chhatisgarh	703569	24.15	19.72	1009	1005
+Kanker	Chhatisgarh	651333	56.8	18.84	1000	1006
+Bastar	Chhatisgarh	1302253	12	18.28	999	1009
+Dantewada	Chhatisgarh	719065	21.94	15.56	1009	1017
+Madhya Pradesh	Madhya Pradesh	60385118	27.24	24.34	912	920
+Sheopur	Madhya Pradesh	559715	33.32	29.72	880	893
+Morena	Madhya Pradesh	1587264	30.58	24.09	808	822
+Bhind	Madhya Pradesh	1426951	25.18	17.06	816	829
+Gwalior	Madhya Pradesh	1629881	27.97	26	831	847
+Datia	Madhya Pradesh	627818	26.01	21.82	847	858
+Shivpuri	Madhya Pradesh	1440666	30.84	27.16	849	858
+Guna	Madhya Pradesh	1665503	30.77	27.11	875	885
+Tikamgarh	Madhya Pradesh	1203160	27.66	27.88	871	886
+Chhatarpur	Madhya Pradesh	1474633	30.61	27.33	856	869
+Panna	Madhya Pradesh	854235	27.4	24.17	897	907
+Sagar	Madhya Pradesh	2021783	24.53	22.7	881	884
+Damoh	Madhya Pradesh	1081909	24.49	20.46	905	902
+Satna	Madhya Pradesh	1868648	27.05	27.52	918	926
+Rewa	Madhya Pradesh	1972333	28.77	26.84	932	939
+Umaria	Madhya Pradesh	515851	31.83	22.58	942	947
+Shahdol	Madhya Pradesh	1572748	28.96	18.87	940	958
+Sidhi	Madhya Pradesh	1830553	38.67	33.28	922	932
+Neemuch	Madhya Pradesh	725457	22.58	21.25	943	950
+Mandsaur	Madhya Pradesh	1183369	23.42	23.67	947	956
+Ratlam	Madhya Pradesh	1214536	24.17	24.97	948	959
+Ujjain	Madhya Pradesh	1709885	23.82	23.63	929	940
+Shajapur	Madhya Pradesh	1290230	22.97	24.87	918	927
+Dewas	Madhya Pradesh	1306617	29.99	26.39	924	932
+Jhabua	Madhya Pradesh	1396677	42.16	23.56	977	990
+Dhar	Madhya Pradesh	1740577	29.31	27.29	951	954
+Indore	Madhya Pradesh	2585321	30.26	40.82	906	911
+West Nimar	Madhya Pradesh	1529954	23.04	27.95	941	948
+Barwani	Madhya Pradesh	1081039	26.3	29.87	964	973
+East Nimar	Madhya Pradesh	1708170	24.11	19.31	938	936
+Rajgarh	Madhya Pradesh	1253246	23.88	26.24	923	931
+Vidisha	Madhya Pradesh	1214759	23.92	25.18	874	876
+Bhopal	Madhya Pradesh	1836784	51.05	35.91	889	896
+Sehore	Madhya Pradesh	1078769	27.99	28.22	898	908
+Raisen	Madhya Pradesh	1120159	23.35	27.8	879	880
+Betul	Madhya Pradesh	1394421	27.68	18.02	966	965
+Harda	Madhya Pradesh	474174	29.14	24.53	914	919
+Hoshangabad	Madhya Pradesh	1085011	25.01	22.4	892	898
+Katni	Madhya Pradesh	1063689	23.43	20.61	939	941
+Jabalpur	Madhya Pradesh	2167469	19.12	22.59	903	910
+Narsimhapur	Madhya Pradesh	957399	20.76	21.88	913	909
+Dindori	Madhya Pradesh	579312	24.94	13.23	985	994
+Mandla	Madhya Pradesh	893908	24.17	14.66	990	1002
+Chhindwara	Madhya Pradesh	1848882	27.21	17.86	953	953
+Seoni	Madhya Pradesh	1165893	23.6	16.49	974	982
+Balaghat	Madhya Pradesh	1445760	19	5.85	1002	1022
+Gujarat	Gujarat	50596992	21.19	22.48	934	921
+Kachchh	Gujarat	1526321	20.22	20.9	964	951
+Banas Kantha	Gujarat	2502843	30.87	26.31	934	931
+Patan	Gujarat	1181941	12.35	14.08	944	933
+Mahesana	Gujarat	1837696	17.35	12.04	951	926
+Sabar Kantha	Gujarat	2083416	17.23	18.3	965	948
+Gandhinagar	Gujarat	1334731	24.49	23.88	934	911
+Ahmadabad	Gujarat	5808378	24.25	26.61	897	892
+Surendranagar	Gujarat	1515147	16.89	25.34	921	923
+Rajkot	Gujarat	3157676	20.12	25.6	946	930
+Jamnagar	Gujarat	1913685	12.24	22.39	949	942
+Porbandar	Gujarat	536854	10.23	14.35	960	946
+Junagadh	Gujarat	2448427	15.29	17.08	960	955
+Amreli	Gujarat	1393295	14.97	6.45	985	986
+Bhavnagar	Gujarat	2469264	23.13	19.29	944	936
+Anand	Gujarat	1856712	13.39	13.03	912	910
+Kheda	Gujarat	2023354	14.81	13.24	924	922
+Panch Mahals	Gujarat	2024883	22.34	20.36	934	939
+Dohad	Gujarat	1635374	34.6	28.35	976	985
+Vadodara	Gujarat	3639775	21.07	19.8	913	919
+Narmada	Gujarat	514083	19.85	14.4	947	948
+Bharuch	Gujarat	1370104	18.36	19.32	925	920
+Surat	Gujarat	4996391	36.29	47.04	901	835
+The Dangs	Gujarat	186712	26.77	29.58	983	986
+Navsari	Gujarat	1229250	19.34	13.22	958	955
+Valsad	Gujarat	1410680	25.87	29.66	957	919
+Daman and Diu	Daman and Diu	158059	28.62	55.59	969	709
+Diu	Daman and Diu	44110	29.8	11.71	1064	1117
+Daman	Daman and Diu	113949	27.89	83.49	913	591
+Dadra and Nagar Haveli	Dadra and Nagar Haveli	220451	33.57	59.2	952	811
+Dadra & Nagar Haveli	Dadra and Nagar Haveli	220451	33.57	59.2	952	811
+Maharashtra	Maharashtra	96752247	25.73	22.57	934	922
+Nandurbar	Maharashtra	1309135	25.3	23.21	975	975
+Dhule	Maharashtra	1708993	22.53	16.01	945	945
+Jalgaon	Maharashtra	3679936	21.75	15.44	940	932
+Buldana	Maharashtra	2226328	25.02	18.03	953	946
+Akola	Maharashtra	1629305	20.87	20.51	934	938
+Washim	Maharashtra	1019725	21.72	18.25	946	939
+Amravati	Maharashtra	2606063	18.19	18.45	936	940
+Wardha	Maharashtra	1230640	15.19	15.3	939	936
+Nagpur	Maharashtra	4051444	26.97	23.25	922	933
+Bhandara	Maharashtra	1135835	20.1	11.2	980	982
+Gondiya	Maharashtra	1200151	10.04	10.49	995	1005
+Gadchiroli	Maharashtra	969960	23.48	23.25	976	976
+Chandrapur	Maharashtra	2077909	25.06	17.26	948	961
+Yavatmal	Maharashtra	2460482	19.55	18.46	951	942
+Nanded	Maharashtra	2868158	33.21	23.08	945	943
+Hingoli	Maharashtra	986717	25.75	19.76	952	953
+Parbhani	Maharashtra	1491109	30.96	15.31	954	957
+Jalna	Maharashtra	1612357	32.45	18.17	958	952
+Aurangabad	Maharashtra	2920548	39.6	31.93	922	919
+Nashik	Maharashtra	4987923	28.73	29.51	940	924
+Thane	Maharashtra	8128833	56.62	54.86	879	857
+Mumbai (Suburban)	Maharashtra	8587561	36.15	27.2	831	826
+Mumbai	Maharashtra	3326837	-3.35	4.79	791	774
+Raigarh	Maharashtra	2205972	22.76	20.89	1010	975
+Pune	Maharashtra	7224224	32.85	30.58	933	917
+Ahmadnagar	Maharashtra	4088077	24.35	21.2	949	941
+Bid	Maharashtra	2159841	28.95	18.54	944	927
+Latur	Maharashtra	2078237	29.68	23.95	942	934
+Osmanabad	Maharashtra	1472256	23.95	15.35	937	930
+Solapur	Maharashtra	3855383	24.84	19.32	934	937
+Satara	Maharashtra	2796906	20.24	14.1	1029	995
+Ratnagiri	Maharashtra	1696482	11.92	9.87	1205	1135
+Sindhudurg	Maharashtra	861672	6.56	3.55	1137	1077
+Kolhapur	Maharashtra	3515413	21.67	17.59	961	949
+Sangli	Maharashtra	2581835	20.45	16.85	958	957
+Andhra Pradesh	Andhra Pradesh	75727541	24.2	13.86	972	978
+Adilabad	Andhra Pradesh	2479347	26.95	19.06	980	989
+Nizamabad	Andhra Pradesh	2342803	21.31	14.98	1017	1016
+Karimnagar	Andhra Pradesh	3477079	24.68	14.47	986	1000
+Medak	Andhra Pradesh	2662296	25.6	17.29	970	976
+Hyderabad	Andhra Pradesh	3686460	39.76	17.18	933	945
+Rangareddi	Andhra Pradesh	3506670	60.32	37.41	941	941
+Mahbubnagar	Andhra Pradesh	3506876	25.87	13.97	973	970
+Nalgonda	Andhra Pradesh	3238449	25.11	13.55	962	967
+Warangal	Andhra Pradesh	3231174	22.54	14.63	962	973
+Khammam	Andhra Pradesh	2565412	26.5	15.78	961	975
+Srikakulam	Andhra Pradesh	2528491	18.46	8.93	1012	1013
+Vizianagaram	Andhra Pradesh	2245103	17	6.36	1000	1004
+Visakhapatnam	Andhra Pradesh	3789823	27.5	15.36	975	991
+East Godavari	Andhra Pradesh	4872622	22.7	7.3	998	992
+West Godavari	Andhra Pradesh	3796144	22.39	7.92	994	992
+Krishna	Andhra Pradesh	4218416	21.33	14.05	969	961
+Guntur	Andhra Pradesh	4405521	19.57	7.27	970	984
+Prakasam	Andhra Pradesh	3054941	18.44	10.72	970	971
+Nellore	Andhra Pradesh	2659661	18.73	11.18	980	983
+Cuddapah	Andhra Pradesh	2573481	17.47	13.48	955	975
+Kurnool	Andhra Pradesh	3512266	23.5	18.14	953	965
+Anantapur	Andhra Pradesh	3639304	24.81	14.31	946	957
+Chittoor	Andhra Pradesh	3735202	19.14	14.54	966	983
+Karnataka	Karnataka	52733958	21.12	17.25	960	964
+Belgaum	Karnataka	4207264	20.3	17.4	954	959
+Bagalkot	Karnataka	1652232	20.79	18.84	982	977
+Bijapur	Karnataka	1808863	22.94	17.63	948	948
+Gulbarga	Karnataka	3124858	24.1	21.02	962	964
+Bidar	Karnataka	1501374	26.12	19.56	952	948
+Raichur	Karnataka	1648212	30.53	21.93	978	980
+Koppal	Karnataka	1193496	28.05	24.57	981	982
+Gadag	Karnataka	971955	15.56	13.14	969	968
+Dharwad	Karnataka	1603794	19.64	16.65	935	948
+Uttara Kannada	Karnataka	1353299	13.66	10.9	966	970
+Haveri	Karnataka	1437860	20.53	13.29	936	942
+Bellary	Karnataka	2025242	26.84	22.3	966	969
+Chitradurga	Karnataka	1510227	20.51	15.05	951	955
+Davanagere	Karnataka	1789693	23.07	14.78	942	951
+Shimoga	Karnataka	1639595	15.11	12.9	964	977
+Udupi	Karnataka	1109494	9.42	6.88	1134	1127
+Chikmagalur	Karnataka	1139104	11.57	11.98	977	984
+Tumkur	Karnataka	2579516	16.58	11.87	959	966
+Kolar	Karnataka	2523406	16.34	13.83	965	970
+Bangalore	Karnataka	6523110	38.44	34.8	903	906
+Bangalore Rural	Karnataka	1877416	15.23	12.21	945	953
+Mandya	Karnataka	1761718	15.96	7.14	963	985
+Hassan	Karnataka	1721319	15.67	9.66	999	1005
+Dakshina Kannada	Karnataka	1896403	15.98	14.51	1020	1023
+Kodagu	Karnataka	545322	5.75	11.64	979	996
+Mysore	Karnataka	2624911	24.84	15.04	953	965
+Chamarajanagar	Karnataka	964275	14.99	9.16	953	968
+Goa	Karnataka	1343998	16.08	14.89	967	960
+North Goa	Karnataka	757407	17.04	13.93	963	951
+South Goa	Karnataka	586591	14.84	16.16	971	972
+Lakshadweep	Lakshadweep	60595	28.47	17.19	943	947
+Lakshadweep	Lakshadweep	60595	28.47	17.19	943	947
+Kerala	Kerala	31838619	14.32	9.42	1036	1058
+Kasaragod	Kerala	1203342	22.78	12.3	1026	1047
+Kannur	Kerala	2412365	16.63	7.13	1049	1090
+Wayanad	Kerala	786627	21.32	17.04	966	1000
+Kozhikode	Kerala	2878498	16.69	9.87	1027	1058
+Malappuram	Kerala	3629640	28.87	17.22	1053	1063
+Palakkad	Kerala	2617072	16.52	9.86	1061	1068
+Thrissur	Kerala	2975440	12.2	8.7	1085	1092
+Ernakulam	Kerala	3098378	11.42	9.09	1000	1017
+Idukki	Kerala	1128605	10.45	6.96	975	993
+Kottayam	Kerala	1952901	7.71	6.76	1003	1025
+Alappuzha	Kerala	2105349	7.28	5.21	1051	1079
+Pathanamthitta	Kerala	1231577	5.6	3.72	1062	1094
+Kollam	Kerala	2584118	10.68	7.33	1035	1070
+Thiruvananthapuram	Kerala	3234707	13.5	9.78	1036	1058
+Tamil Nadu	Tamil Nadu	62110839	15.39	11.19	974	986
+Thiruvallur	Tamil Nadu	2738866	31.53	22.35	957	970
+Chennai	Tamil Nadu	4216268	17.24	9.76	934	951
+Kancheepuram	Tamil Nadu	2869920	26.14	18.84	962	972
+Vellore	Tamil Nadu	3482970	15.14	15.09	978	997
+Dharmapuri	Tamil Nadu	2833252	21.61	16.66	942	938
+Tiruvanamalai	Tamil Nadu	2181853	14.4	6.8	983	996
+Viluppuram	Tamil Nadu	2943917	16.08	6.83	969	983
+Salem	Tamil Nadu	2992754	13.43	16.28	925	929
+Namakkal	Tamil Nadu	1495661	12.79	13.08	960	967
+Erode	Tamil Nadu	2574067	12.17	10.94	958	971
+The Nilgiris	Tamil Nadu	764826	12.7	7.69	983	1015
+Coimbatore	Tamil Nadu	4224107	14.65	20.4	952	959
+Dindigul	Tamil Nadu	1918960	12.54	8.99	976	986
+Kapur	Tamil Nadu	933791	12.87	9.32	999	1010
+Tiruchirappalli	Tamil Nadu	2388831	15.57	8.76	982	1000
+Perambalur	Tamil Nadu	486971	17.92	7.97	975	1007
+Ariyalur	Tamil Nadu	694058	11.16	9.06	975	1007
+Cuddalore	Tamil Nadu	2280530	16.13	7.43	967	985
+Nagapattinam	Tamil Nadu	1487055	11.68	7.95	993	1014
+Thiruvarur	Tamil Nadu	1165213	12.04	5.92	987	1013
+Thanjavur	Tamil Nadu	2205375	11.13	7.38	996	1020
+Pudukkottai	Tamil Nadu	1452269	14.72	9.43	1005	1015
+Sivaganga	Tamil Nadu	1150753	10.72	4.32	1033	1035
+Madurai	Tamil Nadu	2562279	17.51	6.75	964	978
+Theni	Tamil Nadu	1094724	12.98	4.33	964	979
+Virudhunagar	Tamil Nadu	1751548	16.71	11.92	994	1011
+Ramanathapuram	Tamil Nadu	1183321	12.11	5.73	1011	1033
+Toothukudi	Tamil Nadu	1565743	7.8	7.54	1051	1049
+Tirunelveli	Tamil Nadu	2801194	12.53	11.97	1034	1042
+Kanniyakumari	Tamil Nadu	1669763	12.43	4.34	991	1013
+Pondicherry	Pondicherry	973829	33.64	20.56	979	1001
+Yanam	Pondicherry	31362	74.51	54.52	969	975
+Pondicherry	Pondicherry	735004	36.88	20.82	964	990
+Mahe	Pondicherry	36823	17.72	10.09	1156	1148
+Karaikal	Pondicherry	170640	21.41	17.11	1008	1023
+Andaman and Nicobar Islands	Andaman and Nicobar Islands	356265	48.7	26.94	818	846
+Andamans	Andaman and Nicobar Islands	314239	52.54	30.14	815	844
+Nicobars	Andaman and Nicobar Islands	42026	28.74	7.19	840	859
