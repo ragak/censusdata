@@ -50,7 +50,7 @@ abline(lm(gro11~gro01), col="red")
 nogro<-(sr11[gro11==0])
 nogrosd<-sd(sr11[gro11==0])
 gro<-(sr11[gro11!=0])
-gro<-sd(sr11[gro11!=0])
+grosd<-sd(sr11[gro11!=0])
 #is growth normally distributed?
 par( mfrow = c(1,2) )
 qqnorm(gro01)
@@ -61,5 +61,39 @@ qqnorm(gro11)
 hist(gro11)
 
 #not normal, us K-S test to see if they are different (may be try wilcox too?)
-ks.test(gro,nogro)
+ks.test(gro,nogro)$p.value
+#9.333793e-05
 #need a bootstrop
+n=length(gro)
+m=length(nogro)
+boots<-function(x,y){gromisc<-sample(sr11, x, replace = FALSE, prob = NULL)
+                nogromisc<-sample(sr11, y, replace = FALSE, prob = NULL)
+                ks.test(gromisc,nogromisc)$p.value}
+pvals<-replicate(1000,boots(n,m))
+#sum(pvals2<0.001) is 0
+#dist of pvalues skewed towards non-sig (and we literally never get a p-val this low), so likely this is significant
+#what about 10,000 replicates?
+
+pvals2<-replicate(10000,boots(n,m))
+#sum(pvals2<0.0001) is 1 (1e-04)
+#just sample SRs and verify
+boots2<-function(x){sample(sr11, x, replace = FALSE, prob = NULL)}
+sam<-replicate(100000,boots2(m))
+#hist(nogrosam)
+sammeans<-colMeans(sam)
+hist(sammeans)
+qqnorm(sammeans)
+#sampled data is normal
+#sample mean
+a <- mean(sammeans)
+#sample sd
+s <- sd(sammeans)
+#number of samples
+n <- 100000
+#error for 95% confidence interval (2.5% on either tail)
+error <- qt((0.975),df=n-1)
+left <- a-error
+right <- a+error
+mean(gro)
+mean(nogro)
+
