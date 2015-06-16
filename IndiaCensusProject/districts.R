@@ -49,8 +49,10 @@ abline(lm(gro11~gro01), col="red")
 #could that correlate with SR?
 nogro<-(sr11[gro11==0])
 nogrosd<-sd(sr11[gro11==0])
-gro<-(sr11[gro11!=0])
-grosd<-sd(sr11[gro11!=0])
+logro<-(sr11[gro11<0])
+logrosd<-sd(sr11[gro11<0])
+gro<-(sr11[gro11>0])
+grosd<-sd(sr11[gro11>0])
 #is growth normally distributed?
 par( mfrow = c(1,2) )
 qqnorm(gro01)
@@ -97,3 +99,31 @@ right <- a+error
 mean(gro)
 mean(nogro)
 
+#what are the districts not growing?
+nogrodist<-(district[gro11==0])
+nogrostat<-(state[gro11==0])
+#punjab and nagaland
+#limit sampling to punjab and nagaland
+sr11p<-sr11[state=="Punjab"]
+sr11pn<-sr11[state=="Punjab"|state=="Nagaland"]
+#ah!! all punjab and nagaland districs have no growth! may be the growth just wasn't reported...
+#look for everything with negative growth
+
+n=length(gro)
+m=length(logro)
+boots<-function(x,y){gromisc<-sample(sr11, x, replace = FALSE, prob = NULL)
+                     logromisc<-sample(sr11, y, replace = FALSE, prob = NULL)
+                     ks.test(gromisc,logromisc)$p.value}
+pvals<-replicate(1000,boots(n,m))
+pvals2<-replicate(10000,boots(n,m))
+ks.test(gro,logro)$p.value
+#0.006 is the fraction that pass pval<0.015 in the null
+
+#how much confidence can we have in the mean of the logro being an outlier? instead of two SD try 3 SD away from mean
+boots2<-function(x){sample(sr11, x, replace = FALSE, prob = NULL)}
+sam<-replicate(100000,boots2(m))
+#hist(nogrosam)
+sammeans<-colMeans(sam)
+error2 <- qt((0.9985),df=n-1)
+left2 <- a-error2
+right2 <- a+error2
